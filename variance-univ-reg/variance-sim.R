@@ -89,4 +89,3 @@ abline(lm(empirical ~ varU, data = res_u), lwd = 2)
 
 # ratio_emp_to_theory should be near a constant ~ 1
 # (Monte Carlo noise shrinks as R increases).
-# ------------------------------------------------------------
