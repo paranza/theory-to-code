@@ -1,4 +1,4 @@
-R scripts I have done to understand content of Advanced Statistics and Econometrics courses.
+Little scripts I have done to understand content of Advanced Statistics, Machine Learning, and Econometrics courses.
 
-**Language:** R  
+**Language:** R, Python
 **Author:** Antonio Perazza
